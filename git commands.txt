@@ -1,0 +1,3 @@
+git init -git initializing
+
+git status -find there is any untracked files
